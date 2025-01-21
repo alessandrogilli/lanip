@@ -39,7 +39,6 @@ help() {
     echo "  --help	-h	Show this help and exit."
     echo "  --lan 	-l	Show IP address of the configured network interface. [Default]"
     echo "  --wlan	-w	Show IP address of the configured wireless network interface."
-    echo "  --configure	-c	Create the configuration files."
     echo ""
 }
 
