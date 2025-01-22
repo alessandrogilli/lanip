@@ -2,9 +2,9 @@
 A simple utility for retrieving IP addresses on a local network.
 
 ## Installation
-You can install ```lanip``` script (and ```wlanip```, a lazy shortcut to ```lanip -w```) simply running this command:
+You can install ```lanip``` script (and ```wlanip```, a lazy shortcut to ```lanip -w```) simply by running:
 ```bash
-sudo ./install.sh
+sudo make install
 ```
 Once installed, you can launch ```lanip``` and follow the instructions on the screen. The first run will create the
 config file, located in ```~/.config/lanip.conf``` and the instructions will guide you to properly edit this file to
